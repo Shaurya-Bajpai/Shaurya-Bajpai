@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaurya-Bajpai
 - 👀 I’m interested in Java,C,C++.
 - 🌱 I’m currently learning C.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me shauryabajpaibs@gmail.com
 
 <!---
